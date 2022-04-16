@@ -12,10 +12,10 @@ Cairo University - Computer Science and Artificial Intelligence Faculty [2017 �
  With a convenient platform for both client and consultant, dreams application helps you get in touch with experts in many fields through chat(text or records). 
  <p float="left">
   <img src="https://i.ibb.co/mXdZhDy/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/ctx3t5h/1.png" width="150" height="250"//>
-  <img src="https://i.ibb.co/chJtQHn/1.png" width="150" height="250"//>
-  <img src="https://i.ibb.co/L8YfRQs/1.png" width="150" height="250"//>
-  <img src="https://i.ibb.co/WkgFLDC/1.png" width="150" height="250"//>
+  <img src="https://i.ibb.co/ctx3t5h/1.png" width="150" height="250"/>
+  <img src="https://i.ibb.co/chJtQHn/1.png" width="150" height="250"/>
+  <img src="https://i.ibb.co/L8YfRQs/1.png" width="150" height="250"/>
+  <img src="https://i.ibb.co/WkgFLDC/1.png" width="150" height="250"/>
 </p>
 ___
 
@@ -27,9 +27,9 @@ ___
 If you are looking for a new property, just open Aqari map, press on the draw button, draw a shape and you will get all properties inside this shape, filtered exactly as you want. Sell or rent a home and keep thousands of listings right at your fingertips with the Aqari app. 
 <p float="left">
   <img src="https://i.ibb.co/MkdvJ5M/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/wKRb8t2/1.png" width="150" height="250"//>
-  <img src="https://i.ibb.co/mcHXjKx/1.png" width="150" height="250"//>
-  <img src="https://i.ibb.co/x8hcrjv/1.png" width="150" height="250"//>
+  <img src="https://i.ibb.co/wKRb8t2/1.png" width="150" height="250"/>
+  <img src="https://i.ibb.co/mcHXjKx/1.png" width="150" height="250"/>
+  <img src="https://i.ibb.co/x8hcrjv/1.png" width="150" height="250"/>
 </p>
 <!--
 **mumenahmed1811/mumenahmed1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
