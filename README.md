@@ -18,7 +18,6 @@ Cairo University - Computer Science and Artificial Intelligence Faculty [2017 â€
   <img src="https://i.ibb.co/WkgFLDC/1.png" width="150" height="250"/>
 </p>
 ___
-
 # Villino (January 2022 - March 2022):
 Villino is a social application for villino compound residents in new cairo. The application uses a third party security service by scanning QR codes. The application also provides all the news, advertisements and events. Also helps you to request several types of services.
  <p float="left">
