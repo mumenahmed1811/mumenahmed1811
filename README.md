@@ -8,6 +8,7 @@ Junior Software engineer, B. SC. in Computer Science passionate about Mobile Pro
 Cairo University - Computer Science and Artificial Intelligence Faculty [2017 â€“ 2021]
 
 # Samples from my projects:
+
 # Dreams (April 2022 - Present):
  With a convenient platform for both client and consultant, dreams application helps you get in touch with experts in many fields through chat(text or records). 
  <p float="left">
@@ -17,7 +18,9 @@ Cairo University - Computer Science and Artificial Intelligence Faculty [2017 â€
   <img src="https://i.ibb.co/L8YfRQs/1.png" width="150" height="250"/>
   <img src="https://i.ibb.co/WkgFLDC/1.png" width="150" height="250"/>
 </p>
+
 ___
+
 # Villino (January 2022 - March 2022):
 Villino is a social application for villino compound residents in new cairo. The application uses a third party security service by scanning QR codes. The application also provides all the news, advertisements and events. Also helps you to request several types of services.
  <p float="left">
@@ -26,6 +29,7 @@ Villino is a social application for villino compound residents in new cairo. The
  <img src="https://i.ibb.co/f4YfLqG/3.jpg" width="150" height="250"/>
  <img src="https://i.ibb.co/3pnnXnv/4.jpg" width="150" height="250"/>
 </p>
+
 ___
 
 # Aqari (October 2021 - December 2021):
