@@ -11,11 +11,13 @@ Cairo University - Computer Science and Artificial Intelligence Faculty [2017 â€
 # Dreams (April 2022 - Present):
  With a convenient platform for both client and consultant, dreams application helps you get in touch with experts in many fields through chat(text or records). 
  <p float="left">
-  <img src="https://drive.google.com/file/d/1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx/view?usp=sharing" width="100" />
-  <img src="https://drive.google.com/file/d/1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx/view?usp=sharing" width="100" />
-  <img src="https://drive.google.com/file/d/1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx/view?usp=sharing" width="100" />
+  <img src="https://drive.google.com/uc?id=1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx" width="100" />
+  <img src="https://drive.google.com/uc?id=1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx" width="100" />
+ <img src="https://drive.google.com/uc?id=1BCYsMrs8PNYbK_pvjLH4eFCvQ5NOsfTx" width="100" />
 </p>
+
 ___
+
 # Villino (January 2022 - March 2022):
 Villino is a social application for villino compound residents in new cairo. The application uses a third party security service by scanning QR codes. The application also provides all the news, advertisements and events. Also helps you to request several types of services.
 ___
