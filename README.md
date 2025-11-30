@@ -1,56 +1,87 @@
-# Hi there 👋
-My name is Mu'men Ahmed Hamed
+# Mu'men Ahmed Hamed
 
-# About me:
-Junior Software engineer, B. SC. in Computer Science passionate about Mobile Programming with 2-year experience in mobile development(Android native&Flutter) Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.
+**Senior Flutter Developer** | 4+ Years Experience | Mobile, Web & Desktop
 
-# Education:
-Cairo University - Computer Science and Artificial Intelligence Faculty [2017 – 2021]
+Building cross-platform applications from scratch with clean architecture, serving thousands of users across Europe and the Middle East.
 
-# Samples from my projects:
+## 🚀 What I Do
 
-# Dreams (April 2022 - Present):
- With a convenient platform for both client and consultant, dreams application helps you get in touch with experts in many fields through chat(text or records). 
- <p float="left">
-  <img src="https://i.ibb.co/mXdZhDy/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/ctx3t5h/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/chJtQHn/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/L8YfRQs/1.png" width="150" height="250"/>
-  <img src="https://i.ibb.co/WkgFLDC/1.png" width="150" height="250"/>
-</p>
+- Build production Flutter apps for **mobile, web, and Linux desktop**
+- Design **multi-module architectures** and reusable SDK components
+- Collaborate with **European engineering teams** (Germany)
+- Translate **Figma designs** into pixel-perfect UI
+- Ship apps to **App Store & Play Store**
 
-___
+## 🛠 Tech Stack
 
-# Villino (January 2022 - March 2022):
-Villino is a social application for villino compound residents in new cairo. The application uses a third party security service by scanning QR codes. The application also provides all the news, advertisements and events. Also helps you to request several types of services.
- <p float="left">
- <img src="https://i.ibb.co/25MkztR/5051c5ef-66ed-49d2-bcce-01fc46117c96.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/QQPqpqq/2.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/f4YfLqG/3.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/3pnnXnv/4.jpg" width="150" height="250"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-___
+**State Management:** Bloc, Provider, Riverpod, GetX  
+**Architecture:** Clean Architecture, DDD, MVVM, Multi-Module  
+**Backend:** REST APIs, Firebase, Laravel, Django  
+**Tools:** Figma, Zeplin, Bitrise, GitHub Actions, Fastlane  
+**Testing:** Unit, Widget, Integration Testing  
 
-# Aqari (October 2021 - December 2021):
-If you are looking for a new property, just open Aqari map, press on the draw button, draw a shape and you will get all properties inside this shape, filtered exactly as you want. Sell or rent a home and keep thousands of listings right at your fingertips with the Aqari app. 
-<p float="left">
- <img src="https://i.ibb.co/jktNjZg/1.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/xMDcwZr/2.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/pL3R7Tm/3.jpg" width="150" height="250"/>
- <img src="https://i.ibb.co/4gWD0Ty/4.jpg" width="150" height="250"/>
-</p>
-<!--
-**mumenahmed1811/mumenahmed1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Production Apps
 
-Here are some ideas to get you started:
+I've built and published **10+ production applications** across:
+- ⚡ EV Charging Systems (European market)
+- 🏥 Healthcare Platforms
+- 🏠 Real Estate Apps
+- 🌍 Tourism Applications
+- ☀️ Solar Energy Management
 
-- 🔭 I’m currently working on Flutter Framework and developing both Android ans Ios applications with line of code
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗 Featured Projects
+
+### [flutter-clean-architecture-template](link)
+A production-ready Flutter template demonstrating clean architecture with Bloc, Dio, and proper folder structure. Used as base for multiple commercial projects.
+
+### [multi-module-flutter-example](link)
+Example of multi-module Flutter architecture with shared core modules — the pattern I used to reduce development time by 50%+ at Brightskies.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumenahmed1811&show_icons=true&theme=default)
+
+## 📫 Contact
+
+- 📧 mumenahmed1811@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/mu-men-ahmed-62b101207)
+- 📍 Cairo, Egypt (Open to relocation)
+```
+
+---
+
+### **2. Create These Repositories (Priority Order)**
+
+| Repository | Purpose | Time Needed |
+|------------|---------|-------------|
+| **flutter-clean-architecture-template** | Shows your architecture skills | 1 weekend |
+| **flutter-multi-module-example** | Shows your SDK/module work | 1 weekend |
+| **brain-tumor-detection-app** | Your unique graduation project | Clean up existing code |
+
+---
+
+### **3. What to Include in Each Repository**
+
+**flutter-clean-architecture-template:**
+```
+├── lib/
+│   ├── core/
+│   │   ├── error/
+│   │   ├── network/
+│   │   ├── usecases/
+│   │   └── utils/
+│   ├── features/
+│   │   └── feature_name/
+│   │       ├── data/
+│   │       ├── domain/
+│   │       └── presentation/
+│   └── main.dart
+├── test/
+├── README.md (detailed!)
+└── pubspec.yaml
