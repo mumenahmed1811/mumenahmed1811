@@ -1,94 +1,90 @@
 # Mu'men Ahmed
 
-**Flutter Developer** · 4+ Years · 10+ Production Apps · 50%+ Faster Delivery
+**Flutter Developer** · 4+ Years · 10+ Production Apps
 
-I build apps that work in the real world — not just on the emulator.
-
----
-
-## 🔥 Challenges I've Conquered
-
-| The Problem | The Solution | Impact |
-|-------------|--------------|--------|
-| EV chargers losing connection mid-transaction | Offline queue + retry with exponential backoff | Zero failed payments |
-| 5 apps, same features, duplicated code everywhere | Extracted shared SDK modules | 50%+ dev time saved |
-| Push notifications not showing on Xiaomi/Huawei | Custom notification channels + vendor workarounds | 95%+ delivery rate |
-| Figma designs that "look wrong" on small phones | Responsive design system with breakpoints | Pixel-perfect on all devices |
-| App crashing after 2 hours of use | Memory leak hunting + proper Bloc disposal | 99.5% crash-free |
-| Backend team in Germany, 8-hour time difference | Async communication + detailed tickets | Shipped 3 releases smoothly |
+> I build production apps that work in the real world — not just on the emulator.
+>
+> Over 4 years, I've inherited messy codebases, reverse-engineered unclear business logic, integrated payment systems, and shipped apps across mobile, web, and embedded hardware. I solve problems others avoid.
+>
+> I care about clean code that other developers can actually maintain.
 
 ---
 
-## 📱 Apps I've Built From Scratch
+## 📱 Featured Projects
 
-### ⚡ EV Charging Platform (European Market)
-Real-time charger status · Payment processing · Offline resilience · Multi-language
+### ⚡ Chargebig
+EV charging platform for European market — mobile, web, and Linux terminals on physical chargepoints.
 
-### 🎫 Event Ticketing System  
-QR scanning · Firebase Analytics · 10K+ concurrent users
-
-### 🏥 Healthcare Consultation App
-Video calls · In-app chat · Medical record privacy compliance
-
-### 🏠 Real Estate with Map Drawing
-Draw shapes on map → Get properties inside · Complex geospatial queries
-
-### ☀️ Solar Energy Dashboard
-IoT data visualization · Real-time monitoring · Linux desktop + mobile
-
-### 🌍 Tourism App for Qatar National Day
-Offline maps · Multi-language (AR/EN) · Built in 3 weeks
+**Challenges:**
+- Reverse-engineered legacy codebase with unclear business logic
+- Refactored messy code, removed duplications, upgraded outdated plugins
+- 7-state charging flow with no memory leaks
+- Graceful handling of connection loss mid-charge
+- Adyen payment integration
+- Created shared code module architecture for mobile, web, and physical terminals
+- Platform-specific features: NFC, home widgets, native widget↔app storage
 
 ---
 
-## 🛠 My Toolkit
-```
-Flutter ████████████████████ 4+ years
-Dart   ████████████████████ 4+ years
-Bloc   █████████████████░░░ Daily driver
-Kotlin █████████████░░░░░░░ KMP exploration
-```
+### ⚡ Voltedge
+White-label EV charging app — rebrandable for different clients.
 
+**Challenges:**
+- First time implementing multi-module architecture
+- White-label setup (theming/branding per client)
+- Complex UI
+- Paymob payment integration
+
+---
+
+### 🗺 Indoor Mapping
+Convert AutoCAD files into indoor maps with navigation.
+
+**Challenges:**
+- Parsing AutoCAD files into usable map data
+- Pathfinding algorithm with good performance
+
+---
+
+### 🏠 Aqari
+Property finder with map-based search.
+
+**Challenges:**
+- Draw polygon on map to filter properties inside the shape
+
+---
+
+### 🧠 Brain Tumor Detection
+AI-powered MRI analysis with Flutter mobile app. (Graduation Project)
+
+**Challenges:**
+- Integrating AI model with Flutter
+- Medical image processing
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile:** Flutter · Dart · Kotlin  
 **State:** Bloc · Provider · Riverpod · GetX  
-**Data:** REST · GraphQL · Firebase · Hive · SQLite  
-**DevOps:** Bitrise · GitHub Actions · Fastlane · Codemagic  
+**Data:** REST · Firebase · Hive · SQLite  
+**Payments:** Adyen · Paymob  
 **Platforms:** iOS · Android · Web · Linux Desktop  
+**Tools:** Figma · Bitrise · GitHub Actions  
 
 ---
 
-## 🧠 Beyond Code
+## 📊 Quick Numbers
 
-- 🔬 **Bioinformatics background** — Graduation project: Brain tumor detection from MRI using AI
-- 🇩🇪 **European team experience** — Collaborated with German engineering teams remotely
-- 📚 **Gallup Strengths:** Analytical · Deliberative — I think before I code
-
----
-
-## 📊 The Numbers
-```
-┌─────────────────────────────────────────┐
-│  10+  Production apps shipped           │
-│  50%+ Development time reduction        │
-│  15+  Team members collaborated with    │
-│   3   Platforms (Mobile/Web/Desktop)    │
-│   2   Continents (Europe/Middle East)   │
-└─────────────────────────────────────────┘
-```
+- **10+** production apps shipped
+- **3** platforms (mobile, web, desktop)
+- **4+** years Flutter experience
+- **European** team collaboration
 
 ---
 
-## 🎯 What I'm Looking For
+## 📫 Contact
 
-Senior Flutter role with a team that:
-- Values **clean code** over quick hacks
-- Builds products with **real-world complexity**
-- Is open to **remote/hybrid** collaboration
-
-📍 Cairo, Egypt · **Open to relocation to Europe**
-
----
-
-## 📫 Let's Talk
-
-[![Email](https://img.shields.io/badge/Email-mumenahmed1811@gmail.com-red?style=flat&logo=gmail)](mailto:mumenahmed1811@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mu-men-ahmed-62b101207)
+📧 mumenahmed1811@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/mu-men-ahmed-62b101207)  
+📍 Cairo, Egypt · Open to relocation
