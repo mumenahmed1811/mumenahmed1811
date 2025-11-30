@@ -1,87 +1,94 @@
-# Mu'men Ahmed Hamed
+# Mu'men Ahmed
 
-**Senior Flutter Developer** | 4+ Years Experience | Mobile, Web & Desktop
+**Flutter Developer** · 4+ Years · 10+ Production Apps · 50%+ Faster Delivery
 
-Building cross-platform applications from scratch with clean architecture, serving thousands of users across Europe and the Middle East.
+I build apps that work in the real world — not just on the emulator.
 
-## 🚀 What I Do
+---
 
-- Build production Flutter apps for **mobile, web, and Linux desktop**
-- Design **multi-module architectures** and reusable SDK components
-- Collaborate with **European engineering teams** (Germany)
-- Translate **Figma designs** into pixel-perfect UI
-- Ship apps to **App Store & Play Store**
+## 🔥 Challenges I've Conquered
 
-## 🛠 Tech Stack
+| The Problem | The Solution | Impact |
+|-------------|--------------|--------|
+| EV chargers losing connection mid-transaction | Offline queue + retry with exponential backoff | Zero failed payments |
+| 5 apps, same features, duplicated code everywhere | Extracted shared SDK modules | 50%+ dev time saved |
+| Push notifications not showing on Xiaomi/Huawei | Custom notification channels + vendor workarounds | 95%+ delivery rate |
+| Figma designs that "look wrong" on small phones | Responsive design system with breakpoints | Pixel-perfect on all devices |
+| App crashing after 2 hours of use | Memory leak hunting + proper Bloc disposal | 99.5% crash-free |
+| Backend team in Germany, 8-hour time difference | Async communication + detailed tickets | Shipped 3 releases smoothly |
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+---
 
-**State Management:** Bloc, Provider, Riverpod, GetX  
-**Architecture:** Clean Architecture, DDD, MVVM, Multi-Module  
-**Backend:** REST APIs, Firebase, Laravel, Django  
-**Tools:** Figma, Zeplin, Bitrise, GitHub Actions, Fastlane  
-**Testing:** Unit, Widget, Integration Testing  
+## 📱 Apps I've Built From Scratch
 
-## 📱 Production Apps
+### ⚡ EV Charging Platform (European Market)
+Real-time charger status · Payment processing · Offline resilience · Multi-language
 
-I've built and published **10+ production applications** across:
-- ⚡ EV Charging Systems (European market)
-- 🏥 Healthcare Platforms
-- 🏠 Real Estate Apps
-- 🌍 Tourism Applications
-- ☀️ Solar Energy Management
+### 🎫 Event Ticketing System  
+QR scanning · Firebase Analytics · 10K+ concurrent users
 
-## 🏗 Featured Projects
+### 🏥 Healthcare Consultation App
+Video calls · In-app chat · Medical record privacy compliance
 
-### [flutter-clean-architecture-template](link)
-A production-ready Flutter template demonstrating clean architecture with Bloc, Dio, and proper folder structure. Used as base for multiple commercial projects.
+### 🏠 Real Estate with Map Drawing
+Draw shapes on map → Get properties inside · Complex geospatial queries
 
-### [multi-module-flutter-example](link)
-Example of multi-module Flutter architecture with shared core modules — the pattern I used to reduce development time by 50%+ at Brightskies.
+### ☀️ Solar Energy Dashboard
+IoT data visualization · Real-time monitoring · Linux desktop + mobile
 
-## 📊 GitHub Stats
+### 🌍 Tourism App for Qatar National Day
+Offline maps · Multi-language (AR/EN) · Built in 3 weeks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumenahmed1811&show_icons=true&theme=default)
+---
 
-## 📫 Contact
+## 🛠 My Toolkit
+```
+Flutter ████████████████████ 4+ years
+Dart   ████████████████████ 4+ years
+Bloc   █████████████████░░░ Daily driver
+Kotlin █████████████░░░░░░░ KMP exploration
+```
 
-- 📧 mumenahmed1811@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/mu-men-ahmed-62b101207)
-- 📍 Cairo, Egypt (Open to relocation)
+**State:** Bloc · Provider · Riverpod · GetX  
+**Data:** REST · GraphQL · Firebase · Hive · SQLite  
+**DevOps:** Bitrise · GitHub Actions · Fastlane · Codemagic  
+**Platforms:** iOS · Android · Web · Linux Desktop  
+
+---
+
+## 🧠 Beyond Code
+
+- 🔬 **Bioinformatics background** — Graduation project: Brain tumor detection from MRI using AI
+- 🇩🇪 **European team experience** — Collaborated with German engineering teams remotely
+- 📚 **Gallup Strengths:** Analytical · Deliberative — I think before I code
+
+---
+
+## 📊 The Numbers
+```
+┌─────────────────────────────────────────┐
+│  10+  Production apps shipped           │
+│  50%+ Development time reduction        │
+│  15+  Team members collaborated with    │
+│   3   Platforms (Mobile/Web/Desktop)    │
+│   2   Continents (Europe/Middle East)   │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-### **2. Create These Repositories (Priority Order)**
+## 🎯 What I'm Looking For
 
-| Repository | Purpose | Time Needed |
-|------------|---------|-------------|
-| **flutter-clean-architecture-template** | Shows your architecture skills | 1 weekend |
-| **flutter-multi-module-example** | Shows your SDK/module work | 1 weekend |
-| **brain-tumor-detection-app** | Your unique graduation project | Clean up existing code |
+Senior Flutter role with a team that:
+- Values **clean code** over quick hacks
+- Builds products with **real-world complexity**
+- Is open to **remote/hybrid** collaboration
+
+📍 Cairo, Egypt · **Open to relocation to Europe**
 
 ---
 
-### **3. What to Include in Each Repository**
+## 📫 Let's Talk
 
-**flutter-clean-architecture-template:**
-```
-├── lib/
-│   ├── core/
-│   │   ├── error/
-│   │   ├── network/
-│   │   ├── usecases/
-│   │   └── utils/
-│   ├── features/
-│   │   └── feature_name/
-│   │       ├── data/
-│   │       ├── domain/
-│   │       └── presentation/
-│   └── main.dart
-├── test/
-├── README.md (detailed!)
-└── pubspec.yaml
+[![Email](https://img.shields.io/badge/Email-mumenahmed1811@gmail.com-red?style=flat&logo=gmail)](mailto:mumenahmed1811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mu-men-ahmed-62b101207)
