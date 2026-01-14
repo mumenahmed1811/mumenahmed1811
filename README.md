@@ -10,12 +10,42 @@
 
 ---
 
-## 📱 Featured Projects
+## 📱 Published Apps
+
+### Flutter
+
+| App | Description | Links |
+|-----|-------------|-------|
+| **Chargebig** | EV charging platform for European market | [Play Store](https://play.google.com/store/apps/details?id=com.mahle.chargebig) · [App Store](https://apps.apple.com/us/app/chargebig/id1495948606) |
+| **Aqari** | Property finder with map polygon search | [Play Store](https://play.google.com/store/apps/details?id=com.aqari.apps&hl=en) · [App Store](https://apps.apple.com/il/app/aqari-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A/id6695739742) |
+| **Rehlatik** | Tourism app | [Play Store](https://play.google.com/store/apps/details?id=com.infovas.rehlatik) · [App Store](https://apps.apple.com/us/app/rehlatik-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%83/id6443763417) |
+
+### Native Android (Kotlin)
+
+| App | Description | Links |
+|-----|-------------|-------|
+| **Pharma Overseas** | Healthcare/Pharma app | [Play Store](https://play.google.com/store/apps/details?id=com.brightskies.pharmaoverseas&hl=en) |
+| **Trendy** | E-commerce app | [Play Store](https://play.google.com/store/apps/details?id=com.trendy.trendy&hl=en) |
+
+### Enterprise / Private Deployment
+
+| App | Tech | Description |
+|-----|------|-------------|
+| **Jedar** | Flutter + Linux | Solar energy management |
+| **Voltedge** | Flutter | White-label EV charging platform |
+| **Medical Consultation** | Flutter | Healthcare platform |
+| **Ticketing System** | Flutter | Event management with QR scanning |
+| **Dreams** | Flutter | Consultant chat platform |
+| **Villino** | Flutter | Compound residents app |
+
+---
+
+## 🔥 Featured Projects
 
 ### ⚡ Chargebig
 EV charging platform for European market — mobile, web, and Linux terminals on physical chargepoints.
 
-**Challenges:**
+**Challenges solved:**
 - Reverse-engineered legacy codebase with unclear business logic
 - Refactored messy code, removed duplications, upgraded outdated plugins
 - 7-state charging flow with no memory leaks
@@ -29,10 +59,10 @@ EV charging platform for European market — mobile, web, and Linux terminals on
 ### ⚡ Voltedge
 White-label EV charging app — rebrandable for different clients.
 
-**Challenges:**
+**Challenges solved:**
 - First time implementing multi-module architecture
 - White-label setup (theming/branding per client)
-- Complex UI
+- Complex UI with custom components
 - Paymob payment integration
 
 ---
@@ -40,7 +70,7 @@ White-label EV charging app — rebrandable for different clients.
 ### 🗺 Indoor Mapping
 Convert AutoCAD files into indoor maps with navigation.
 
-**Challenges:**
+**Challenges solved:**
 - Parsing AutoCAD files into usable map data
 - Pathfinding algorithm with good performance
 
@@ -49,28 +79,30 @@ Convert AutoCAD files into indoor maps with navigation.
 ### 🏠 Aqari
 Property finder with map-based search.
 
-**Challenges:**
+**Challenges solved:**
 - Draw polygon on map to filter properties inside the shape
+- Real-time property filtering based on custom shapes
 
 ---
 
 ### 🧠 Brain Tumor Detection
-AI-powered MRI analysis with Flutter mobile app. (Graduation Project)
+AI-powered MRI analysis with Flutter mobile app. *(Graduation Project)*
 
-**Challenges:**
+**Challenges solved:**
 - Integrating AI model with Flutter
-- Medical image processing
+- Medical image processing pipeline
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile:** Flutter · Dart · Kotlin  
+**Mobile:** Flutter · Dart · Kotlin · Jetpack Compose  
 **State:** Bloc · Provider · Riverpod · GetX  
+**Architecture:** Clean Architecture · DDD · Multi-Module · SDK Development  
 **Data:** REST · Firebase · Hive · SQLite  
 **Payments:** Adyen · Paymob  
 **Platforms:** iOS · Android · Web · Linux Desktop  
-**Tools:** Figma · Bitrise · GitHub Actions  
+**Tools:** Figma · Bitrise · GitHub Actions · Fastlane  
 
 ---
 
@@ -79,7 +111,7 @@ AI-powered MRI analysis with Flutter mobile app. (Graduation Project)
 - **10+** production apps shipped
 - **3** platforms (mobile, web, desktop)
 - **4+** years Flutter experience
-- **European** team collaboration
+- **European** team collaboration (German engineering teams)
 
 ---
 
